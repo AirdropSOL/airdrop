@@ -1,0 +1,2 @@
+# airdrop
+Info about $Airdrop
